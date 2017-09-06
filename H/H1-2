@@ -3,7 +3,7 @@
 # Web:http://htcui.com
 # iOS/OS X/Windows/linux/
 ##################################################
-# Last updated: 2017-09-01
+# Last updated: 2017-09-03
 ###################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -7733,7 +7733,7 @@
 89.187.65.68 insiders.kobo.com
 # Kobo End
 # nytimes for mobile Start
-54.249.25.75 sso.nytcn.me
+54.250.193.44 sso.nytcn.me
 151.101.77.164 www.nytimes.com
 151.101.77.164 mobile.nytimes.com
 151.101.77.164 nytimes.com
@@ -7757,14 +7757,13 @@
 151.101.77.164 static04.nyt.com
 151.101.77.164 static05.nyt.com
 151.101.77.164 static06.nyt.com
-54.230.156.69 cn.nytstyle.com
-54.230.156.69 cn.nytimes.com
-54.230.156.69 static.sxzhchina.com
+54.192.75.215 cn.nytstyle.com
+54.192.75.215 cn.nytimes.com
+54.192.75.215 static.sxzhchina.com
 122.152.169.5 l0.cn.nytimes.com
 208.100.17.181 ic.tynt.com
-223.119.203.224 vp.nyt.com
+104.89.126.83 vp.nyt.com
 35.186.231.252 m.cn.nytimes.com
-54.230.159.175 m.cn.nytstyle.com
 # nytimes for mobile End
 # Psiphon Start
 54.239.168.4 psiphon3.com
@@ -7909,9 +7908,9 @@
 203.210.8.42 engineering.pinterest.com
 203.210.8.42 ak.pinterest.com
 203.210.8.42 s.pinimg.com
-2.17.60.14 i.pinimg.com
-203.210.6.39 v.pinimg.com
-203.210.6.39 s-media-cache-ak0.pinimg.com
+203.210.8.42 i.pinimg.com
+203.210.8.42 v.pinimg.com
+203.210.8.42 s-media-cache-ak0.pinimg.com
 # Pinterest End
 # Twitch Start
 23.42.166.171 www.twitch.tv
@@ -8013,13 +8012,13 @@
 77.72.116.173 sa.bbc.co.uk
 # BBC End
 # Resilio Sync Start
-54.192.212.30 config.resilio.com
-54.192.212.30 config.getsync.com
-54.192.212.30 www.getsync.com
-54.192.212.30 getsync.com
-54.192.212.30 download-cdn.getsync.com
-54.192.212.30 link.resilio.com
-54.192.212.30 www.resilio.com
+54.192.75.121 config.resilio.com
+54.192.75.121 config.getsync.com
+54.192.75.121 www.getsync.com
+54.192.75.121 getsync.com
+54.192.75.121 download-cdn.getsync.com
+54.192.75.121 link.resilio.com
+54.192.75.121 www.resilio.com
 52.84.243.28 forum.resilio.com
 188.172.138.1 help.resilio.com
 52.20.43.156 update.getsync.com
@@ -8105,26 +8104,26 @@
 151.101.78.164 prod-exp-video-us-east-1.pscp.tv
 151.101.78.164 prod-exp-video-us-west-1.pscp.tv
 151.101.78.164 prod-exp-video-us-west-2.pscp.tv
-151.101.78.93 prod-video-ap-northeast-1.pscp.tv
-151.101.78.93 prod-video-ap-southeast-1.pscp.tv
-151.101.78.93 prod-video-eu-central-1.pscp.tv
-151.101.78.93 prod-video-us-east-1.pscp.tv
-151.101.78.93 prod-video-us-west-1.pscp.tv
-151.101.78.93 prod-video-us-west-2.pscp.tv
+151.101.78.164 prod-video-ap-northeast-1.pscp.tv
+151.101.78.164 prod-video-ap-southeast-1.pscp.tv
+151.101.78.164 prod-video-eu-central-1.pscp.tv
+151.101.78.164 prod-video-us-east-1.pscp.tv
+151.101.78.164 prod-video-us-west-1.pscp.tv
+151.101.78.164 prod-video-us-west-2.pscp.tv
 52.24.72.66 proxsee.pscp.tv
-52.89.55.23 payman.pscp.tv
-35.167.226.229 channels.pscp.tv
+54.148.84.129 payman.pscp.tv
+34.213.140.252 channels.pscp.tv
 52.220.51.152 signer.pscp.tv
 54.249.17.30 www.pscp.tv
 54.70.159.19 notification-service.pscp.tv
-54.65.175.92 prod-chatman-ancillary-ap-northeast-1.pscp.tv
-52.28.143.27 prod-chatman-ancillary-eu-central-1.pscp.tv
+52.196.188.197 prod-chatman-ancillary-ap-northeast-1.pscp.tv
+35.158.228.205 prod-chatman-ancillary-eu-central-1.pscp.tv
 52.21.58.174 prod-chatman-ancillary-us-east-1.pscp.tv
-52.89.133.239 prod-chatman-ancillary-us-west-2.pscp.tv
-54.178.150.228 chatman-replay-ap-northeast-1.pscp.tv
-52.29.1.229 chatman-replay-eu-central-1.pscp.tv
-34.196.104.180 chatman-replay-us-east-1.pscp.tv
-52.25.0.156 chatman-replay-us-west-2.pscp.tv
+34.211.196.72 prod-chatman-ancillary-us-west-2.pscp.tv
+52.196.46.10 chatman-replay-ap-northeast-1.pscp.tv
+52.58.253.65 chatman-replay-eu-central-1.pscp.tv
+52.70.108.163 chatman-replay-us-east-1.pscp.tv
+54.68.245.50 chatman-replay-us-west-2.pscp.tv
 # Periscope End
 # doub.io Start   
 168.235.75.151 doub.io
@@ -8137,9 +8136,9 @@
 31.192.120.36 jp.pornhub.com
 # pornhub End
 # rfi Start
-219.76.10.209 m.cn.rfi.fr
-219.76.10.43 scd.cn.rfi.fr
-219.76.10.225 telechargement.rfi.fr
+223.119.50.202 m.cn.rfi.fr
+223.119.50.209 scd.cn.rfi.fr
+223.119.50.210 telechargement.rfi.fr
 # rfi End
 # t66y Start
 104.25.32.112 t66y.com
@@ -8161,4 +8160,21 @@
 205.203.133.8 buy.wsj.com
 23.15.8.128 cn.wsj.com
 # wsj End
+# xvideos Start
+185.88.181.2 www.xvideos.com
+141.0.168.12 static.xvideos.com
+209.197.3.84 static-hw.xvideos.com
+209.197.3.84 img-hw.xvideos.com
+205.185.208.170 content.xvideos.com
+152.195.11.1 edgecast-video.xvideos.com
+113.29.44.114 videos1.xvideos.com
+113.29.44.114 videos2.xvideos.com
+113.29.44.114 videos3.xvideos.com
+113.29.44.114 videos4.xvideos.com
+# xvideos End
+# hk01 Start
+54.192.75.121 hk01.com
+54.192.75.121 www.hk01.com
+151.139.242.26 cdn.hk01.com
+# hk01 End
 # Modified hosts end
